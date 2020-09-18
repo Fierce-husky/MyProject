@@ -1,4 +1,4 @@
-package algorithmdesignandanalysis;
+package algorithmstudy;
 
 public class BigSubSum {
     public static void main(String[] args) {

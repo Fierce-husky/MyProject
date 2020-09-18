@@ -1,6 +1,8 @@
-package algorithmfourthedition.partone;
+package algorithmstudy;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 /**
  * 从中间向两边扩展寻找回文子串

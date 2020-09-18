@@ -1,4 +1,4 @@
-package algorithmdesignandanalysis;
+package algorithmstudy;
 
 /**
  * 01背包问题

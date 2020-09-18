@@ -1,4 +1,4 @@
-package algorithmdesignandanalysis;
+package algorithmstudy;
 
 /**
  * 金币阵列问题

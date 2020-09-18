@@ -1,4 +1,4 @@
-package algorithmdesignandanalysis;
+package algorithmstudy;
 
 /**
  * 统计数字

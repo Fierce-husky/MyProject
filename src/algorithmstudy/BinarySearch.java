@@ -1,4 +1,4 @@
-package algorithmfourthedition.partone;
+package algorithmstudy;
 
 import java.util.Arrays;
 

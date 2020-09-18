@@ -1,4 +1,4 @@
-package algorithmdesignandanalysis;
+package algorithmstudy;
 
 import java.util.Scanner;
 

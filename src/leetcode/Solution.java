@@ -1,4 +1,4 @@
-package exam;
+package leetcode;
 
 
 import java.util.ArrayDeque;
